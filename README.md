@@ -7,6 +7,8 @@ Primary Goal:
 <br/>To keep it Simple & including Ads support like AdMob's Ad (Native, Interstitial)
 <br/>No!, No Banners!
 
+#oRIGINAL lib (https://github.com/ItzNotABug/HouseAds)
+
 ## Gradle
 [![Download](https://api.bintray.com/packages/itznotabug/Maven/houseAds/images/download.svg) ](https://bintray.com/itznotabug/Maven/houseAds/_latestVersion)
 <br/>Adding HouseAds in your App - 
